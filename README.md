@@ -1,7 +1,7 @@
-- 👋 I'm Dishant chaudhary , 1st year BCA 
-- 👀 I doing bug huting , competitive programming and learning new algorithms.
-- 🌱 I'm exploring cybersecurity , different fields in software development and learning new skills.
-- ⚡ Hobby - Games, Gym, Movies, Anime.
+- 👋 I'm Dishant Chaudhary, 2nd year BCA student.
+- 👀 I am a CTF player, and beginner bug hunter.
+- 🌱 I'm exploring offensive security and learning new skills.
+- ⚡ Hobby - Games, Movies, Anime, sports.
 - 📫 You can contact me through email - dishantchaudhary86@gmail.com
 
 
