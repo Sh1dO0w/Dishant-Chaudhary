@@ -1,5 +1,5 @@
 - 👋 I'm Dishant Chaudhary, 2nd year BCA student.
-- 👀 I am a CTF player, and beginner bug hunter.
+- 👀 I am a CTF player, and a bug hunter.
 - 🌱 I'm exploring offensive security and learning new skills.
 - ⚡ Hobby - Games, Movies, Anime, sports.
 - 📫 You can contact me through email - dishantchaudhary86@gmail.com
