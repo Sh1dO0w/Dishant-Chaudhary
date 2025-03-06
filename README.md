@@ -1,8 +1,5 @@
-- 👋 I'm Dishant Chaudhary, 2nd year BCA student.
-- 👀 I am a CTF player, and a bug hunter.
-- 🌱 I'm exploring offensive security and learning new skills.
-- ⚡ Hobby - Games, Movies, Anime, sports.
-- 📫 You can contact me through email - dishantchaudhary86@gmail.com
+I'm a 19 year old hacker,Hunting bugs, breaking systems, and pushing limits—that’s what I do. From bypassing security controls to escalating privileges, I approach every challenge like a puzzle waiting to be solved. My journey in cybersecurity started with curiosity, fueled by late-night CTFs, deep dives into exploit development, and an endless supply of caffeine.
+
 
 
 
