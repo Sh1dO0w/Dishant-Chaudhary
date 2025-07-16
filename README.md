@@ -1,4 +1,6 @@
-I'm a 19 year old hacker,Hunting bugs, breaking systems, and pushing limits—that’s what I do. From bypassing security controls to escalating privileges, I approach every challenge like a puzzle waiting to be solved. My journey in cybersecurity started with curiosity, fueled by late-night CTFs, deep dives into exploit development, and an endless supply of caffeine.
+I'm a 20-year-old hacker, hunting bugs, breaking systems, and pushing limits—that’s what I do. From bypassing security controls to escalating privileges,
+
+In this world, success is paramount — and ultimately, I will emerge victorious. That is all that truly matters
 
 
 
