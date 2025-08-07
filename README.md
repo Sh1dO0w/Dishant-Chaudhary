@@ -1,12 +1,24 @@
-I'm a 20-year-old hacker, hunting bugs, breaking systems, and pushing limits—that’s what I do. From bypassing security controls to escalating privileges,
+# Yoo, I'm Sh1dO0w 
 
-In this world, success is paramount — and ultimately, I will emerge victorious. That is all that truly matters
+```python
+def Sh1dO0w():
+    **Penetration tester/ CTF player / Red Team**
+    findmehere = {
+        "Discord": "@jaat.ram",
+        "X": "x.com/Sh1dO0w",
+        "Portfolio": "sh1d00w.pages.dev",
+    }
+   for portal, identity in findmehere.items():
+    print(f"🔗 {portal:<9}: {identity}")
 
+Sh1dO0w()
+```
 
-
-
- 
-<!---
-Dishant-Chaudhary/Dishant-Chaudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+  <a href="https://app.hackthebox.com/profile/2127952" target="_blank">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
+  </a>
+  <a href="https://tryhackme.com/p/Sh1dO0w" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+</p>
