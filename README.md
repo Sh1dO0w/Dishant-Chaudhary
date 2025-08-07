@@ -15,7 +15,7 @@ Sh1dO0w()
 ```
 
 <p align="left">
-  <a href="https://app.hackthebox.com/profile/#2127952" target="_blank">
+  <a href="https://app.hackthebox.com/profile/2127952" target="_blank">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
   </a>
   <a href="https://tryhackme.com/p/Sh1dO0w" target="_blank">
