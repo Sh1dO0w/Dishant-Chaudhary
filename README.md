@@ -2,7 +2,7 @@
 
 ```python
 def Sh1dO0w():
-    ""Penetration tester/ CTF player / Red Team""
+    """Penetration tester/ CTF player / Red Team"""
     findmehere = {
         "Discord": "@jaat.ram",
         "X": "x.com/Sh1dO0w",
